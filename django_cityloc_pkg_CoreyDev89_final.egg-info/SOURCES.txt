@@ -12,8 +12,8 @@ citylocations/urls.py
 citylocations/views.py
 citylocations/migrations/__init__.py
 citylocations/templates/citylocations/loc_nyc.html
-django_cityloc_pkg_CoreyDev89.egg-info/PKG-INFO
-django_cityloc_pkg_CoreyDev89.egg-info/SOURCES.txt
-django_cityloc_pkg_CoreyDev89.egg-info/dependency_links.txt
-django_cityloc_pkg_CoreyDev89.egg-info/requires.txt
-django_cityloc_pkg_CoreyDev89.egg-info/top_level.txt
+django_cityloc_pkg_CoreyDev89_final.egg-info/PKG-INFO
+django_cityloc_pkg_CoreyDev89_final.egg-info/SOURCES.txt
+django_cityloc_pkg_CoreyDev89_final.egg-info/dependency_links.txt
+django_cityloc_pkg_CoreyDev89_final.egg-info/requires.txt
+django_cityloc_pkg_CoreyDev89_final.egg-info/top_level.txt
